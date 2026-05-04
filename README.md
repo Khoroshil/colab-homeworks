@@ -23,7 +23,7 @@
 
 - Python 3
 - Google Colab / Jupyter Notebook
-- Pandas, NumPy, Matplotlib
+- Pandas, NumPy, Matplotlib и многое другое!
 
 ---
 
